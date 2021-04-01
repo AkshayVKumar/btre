@@ -1,0 +1,4 @@
+django==2.2
+cryptography=2.8
+mysql_connector_python
+pillow
